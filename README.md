@@ -1,2 +1,2 @@
-# Aryapatel
-Learn with GitHub 
+# Hello 👋!
+Welcome to my page 
